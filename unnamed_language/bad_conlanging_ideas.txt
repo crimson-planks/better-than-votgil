@@ -1,0 +1,7 @@
+#1
+'Before', 'In front of', 'behind', 'because', and stuff like that are prefixes
+'Within', 'while', 'Inside', 'of', 'is contained in' are infixes
+'on', 'after', 'why', 'when', 'how', 'what', 'who', 'whom' are suffixes of the thing you're
+eg. I cried when I was cutting onions.
+You put a suffix after 'I was cutting onions'
+
