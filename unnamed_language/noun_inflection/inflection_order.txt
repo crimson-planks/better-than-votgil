@@ -1,1 +1,1 @@
-case->number->awesomeness->rarity
+case->case2->number->awesomeness->rarity

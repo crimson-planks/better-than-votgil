@@ -1,1 +1,2 @@
 note 1: Comparative is 'your dog' in "My dog is bigger than your dog."
+note 2: infixes are put in the second to last syllable of the original word.
