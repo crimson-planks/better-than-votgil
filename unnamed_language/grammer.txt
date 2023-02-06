@@ -1,2 +1,4 @@
 SVO word order
 Nouns and verbs in Dependent clauses are marked for the corresponding case.
+No 'wh-words'. instead, all words in the clause have to conjugate according to noun_inflection/context.csv
+adjectives follow nouns.

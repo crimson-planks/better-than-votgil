@@ -1,1 +1,1 @@
-case->case2->number->awesomeness->rarity
+case->context->number->awesomeness->rarity->shape->sexiness
