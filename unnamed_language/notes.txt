@@ -1,4 +1,4 @@
-note 1: Comparative is 'your dog' in "My dog is bigger than your dog."
+note 1: Comparative is 'your dog' in "My dog is smarter than your dog."
 note 2: infixes are put in the second to last syllable of the original word.
 note 3: exactly 16 for snowballs, empty buckets, eggs, signs, honey bottles, banners, written books, ender pearls, and armor stands‌
 note 4: this can be applied multiple times.

@@ -1,0 +1,4 @@
+past,*=a(a)
+future,*#a(d)
+slightly future,=a(s)
+slightly past,#a(s)
